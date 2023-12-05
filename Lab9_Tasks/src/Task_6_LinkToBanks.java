@@ -16,11 +16,11 @@ public class Task_6_LinkToBanks {
             FileWriter fw = new FileWriter("bankData.txt");
 
 
-            while(br.readLine()!=null){
-                String[] array =br.readLine().split("\\s+");
+            while(br.readLine() != null){
+                String[] array =br.readLine().split("\\t+");
                 if(array.length>2){
                     String id = array[0].trim();
-                    String bankName = br.readLine().substring(id.length()).trim();
+                    String bankName = array[1].trim();
                     fw.write(id + "\s" + bankName + "\n");
                 }
             }
