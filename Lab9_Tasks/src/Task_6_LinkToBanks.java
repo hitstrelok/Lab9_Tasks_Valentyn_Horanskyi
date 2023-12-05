@@ -15,14 +15,14 @@ public class Task_6_LinkToBanks {
             BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
             FileWriter fw = new FileWriter("bankData.txt");
 
-
+            String line = br.readLine();
             while(br.readLine() != null){
-                String[] array =br.readLine().split("\\t+");
-                if(array.length>2){
-                    String id = array[0].trim();
-                    String bankName = array[1].trim();
-                    fw.write(id + "\s" + bankName + "\n");
-                }
+                    String[] array =br.readLine().split("\\t+");
+                    if(array.length>2){
+                        String id = array[0].trim();
+                        String bankName = array[1].trim();
+                        fw.write(id + "\s" + bankName + "\n");
+                    }
             }
 
             br.close();

@@ -8,7 +8,6 @@
 101 Narodowy Bank Polski
 101 Narodowy Bank Polski
 101 Narodowy Bank Polski
-101 Narodowy Bank Polski
 102 Powszechna Kasa Oszcz�dno�ci Bank Polski Sp��ka Akcyjna
 102 Powszechna Kasa Oszcz�dno�ci Bank Polski Sp��ka Akcyjna
 102 Powszechna Kasa Oszcz�dno�ci Bank Polski Sp��ka Akcyjna
@@ -227,6 +226,7 @@
 105 ING Bank �l�ski Sp��ka Akcyjna
 105 ING Bank �l�ski Sp��ka Akcyjna
 105 ING Bank �l�ski Sp��ka Akcyjna
+106 Bank BPH Sp��ka Akcyjna
 109 Santander Bank Polska Sp��ka Akcyjna
 109 Santander Bank Polska Sp��ka Akcyjna
 109 Santander Bank Polska Sp��ka Akcyjna
@@ -431,7 +431,7 @@
 116 Bank Millennium Sp��ka Akcyjna
 116 Bank Millennium Sp��ka Akcyjna
 116 Bank Millennium Sp��ka Akcyjna
-122 Bank Handlowo-Kredytowy Sp��ka Akcyjna w Katowicach w likwidacji
+124 Bank Polska Kasa Opieki Sp��ka Akcyjna
 124 Bank Polska Kasa Opieki Sp��ka Akcyjna
 124 Bank Polska Kasa Opieki Sp��ka Akcyjna
 124 Bank Polska Kasa Opieki Sp��ka Akcyjna
@@ -743,7 +743,6 @@
 132 Bank Pocztowy Sp��ka Akcyjna
 132 Bank Pocztowy Sp��ka Akcyjna
 132 Bank Pocztowy Sp��ka Akcyjna
-132 Bank Pocztowy Sp��ka Akcyjna
 154 Bank Ochrony �rodowiska Sp��ka Akcyjna
 154 Bank Ochrony �rodowiska Sp��ka Akcyjna
 154 Bank Ochrony �rodowiska Sp��ka Akcyjna
@@ -760,7 +759,7 @@
 154 Bank Ochrony �rodowiska Sp��ka Akcyjna
 154 Bank Ochrony �rodowiska Sp��ka Akcyjna
 154 Bank Ochrony �rodowiska Sp��ka Akcyjna
-161 SGB-Bank Sp��ka Akcyjna
+158 Mercedes-Benz Bank Polska Sp��ka Akcyjna w likwidacji
 161 SGB-Bank Sp��ka Akcyjna
 161 SGB-Bank Sp��ka Akcyjna
 161 SGB-Bank Sp��ka Akcyjna
@@ -781,12 +780,12 @@
 168 PLUS BANK Sp��ka Akcyjna
 168 PLUS BANK Sp��ka Akcyjna
 168 PLUS BANK Sp��ka Akcyjna
+184 Soci�t� G�n�rale Sp��ka Akcyjna Oddzia� w Polsce
 187 Nest Bank Sp��ka Akcyjna
 187 Nest Bank Sp��ka Akcyjna
 187 Nest Bank Sp��ka Akcyjna
 189 Pekao Bank Hipoteczny Sp��ka Akcyjna
 191 Deutsche Bank Polska Sp��ka Akcyjna
-191 Deutsche Bank Polska Sp��ka Akcyjna
 193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
 193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
 193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
@@ -818,7 +817,7 @@
 193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
 193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
 193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
-194 Credit Agricole Bank Polska Sp��ka Akcyjna
+193 BANK POLSKIEJ SP��DZIELCZO�CI SP��KA AKCYJNA
 194 Credit Agricole Bank Polska Sp��ka Akcyjna
 194 Credit Agricole Bank Polska Sp��ka Akcyjna
 194 Credit Agricole Bank Polska Sp��ka Akcyjna
@@ -890,7 +889,8 @@
 203 BNP Paribas Bank Polska Sp��ka Akcyjna
 203 BNP Paribas Bank Polska Sp��ka Akcyjna
 212 Santander Consumer Bank Sp��ka Akcyjna
-215 mBank Hipoteczny Sp��ka Akcyjna
+212 Santander Consumer Bank Sp��ka Akcyjna
+216 Toyota Bank Polska Sp��ka Akcyjna
 219 DNB Bank Polska Sp��ka Akcyjna
 219 DNB Bank Polska Sp��ka Akcyjna
 219 DNB Bank Polska Sp��ka Akcyjna
@@ -910,13 +910,12 @@
 219 DNB Bank Polska Sp��ka Akcyjna
 219 DNB Bank Polska Sp��ka Akcyjna
 219 DNB Bank Polska Sp��ka Akcyjna
-225 Svenska Handelsbanken AB Sp��ka Akcyjna Oddzia� w Polsce
+235 BNP Paribas S.A. Oddzia� w Polsce
 235 BNP Paribas S.A. Oddzia� w Polsce
 236 Danske Bank A/S Sp��ka Akcyjna Oddzia� w Polsce
 237 Skandinaviska Enskilda Banken AB (Sp��ka Akcyjna) - Oddzia� w Polsce
-239 CAIXABANK, S.A. (SP��KA AKCYJNA) ODDZIA� W POLSCE
+241 Elavon Financial Services Designated Activity Company (Sp��ka z O.O. o Wyznaczonym Przedmiocie Dzia�alno�ci) Oddzia� w Polsce
 247 HAITONG BANK, S.A. Sp��ka Akcyjna Oddzia� w Polsce
-248 Getin Noble Bank Sp��ka Akcyjna w upad�o�ci
 249 Alior Bank Sp��ka Akcyjna
 249 Alior Bank Sp��ka Akcyjna
 249 Alior Bank Sp��ka Akcyjna
@@ -945,20 +944,21 @@
 249 Alior Bank Sp��ka Akcyjna
 249 Alior Bank Sp��ka Akcyjna
 249 Alior Bank Sp��ka Akcyjna
-251 Aareal Bank Aktiengesellschaft (Sp��ka Akcyjna) - Oddzia� w Polsce
-255 Ikano Bank AB (publ) Sp��ka Akcyjna Oddzia� w Polsce
-260 Bank of China (Europe) S.A. Sp��ka Akcyjna Oddzia� w Polsce
+249 Alior Bank Sp��ka Akcyjna
+254 Citibank Europe plc (Publiczna Sp��ka Akcyjna) Oddzia� w Polsce
+256 Nordea Bank Abp Sp��ka Akcyjna Oddzia� w Polsce
+262 Industrial and Commercial Bank of China (Europe) S.A. (Sp��ka Akcyjna) Oddzia� w Polsce
 264 RCI Banque Sp��ka Akcyjna Oddzia� w Polsce
-265 EUROCLEAR Bank SA/NV (Sp��ka Akcyjna) - Oddzia� w Polsce
-267 Western Union International Bank GmbH, Sp. z o.o. Oddzia� w Polsce
+266 Intesa Sanpaolo S.p.A. Sp��ka Akcyjna Oddzia� w Polsce
 269 PKO Bank Hipoteczny Sp��ka Akcyjna
+270 TF BANK AB (Sp��ka z ograniczon� odpowiedzialno�ci�) Oddzia� w Polsce
 271 FCE Bank Sp��ka Akcyjna Oddzia� w Polsce
-272 AS Inbank Sp��ka Akcyjna - Oddzia� w Polsce
-275 John Deere Bank S.A. Sp��ka Akcyjna Oddzia� w Polsce
+273 China Construction Bank (Europe) S.A. (Sp��ka Akcyjna) Oddzia� w Polsce
 277 Volkswagen Bank GmbH Sp��ka z ograniczon� odpowiedzialno�ci� Oddzia� w Polsce
-279 Raiffeisen Bank International AG (Sp��ka Akcyjna) Oddzia� w Polsce
-281 Goldman Sachs Bank Europe SE Sp��ka Europejska Oddzia� w Polsce
-285 BFF Bank S.p.A. Sp��ka Akcyjna Oddzia� w Polsce
+278 ING Bank Hipoteczny Sp��ka Akcyjna
+280 HSBC Continental Europe (Sp��ka Akcyjna) Oddzia� w Polsce
+283 J.P. Morgan SE (Sp��ka Europejska) Oddzia� w Polsce
+286 CA Auto Bank S.p.A. Sp��ka Akcyjna Oddzia� w Polsce
 287 Bank Nowy Sp��ka Akcyjna
 287 Bank Nowy Sp��ka Akcyjna
 287 Bank Nowy Sp��ka Akcyjna
@@ -970,8 +970,8 @@
 287 Bank Nowy Sp��ka Akcyjna
 287 Bank Nowy Sp��ka Akcyjna
 287 Bank Nowy Sp��ka Akcyjna
-288 Allfunds Bank S.A.U. (Sp��ka Akcyjna) Oddzia� w Polsce
-290 Millennium Bank Hipoteczny Sp��ka Akcyjna
+289 Hoist Finance AB (publ) Sp��ka Akcyjna Oddzia� w Polsce
+291 AION Bank S.A. Sp��ka Akcyjna Oddzia� w Polsce
 293 VeloBank Sp��ka Akcyjna
 293 VeloBank Sp��ka Akcyjna
 293 VeloBank Sp��ka Akcyjna
@@ -983,39 +983,39 @@
 293 VeloBank Sp��ka Akcyjna
 293 VeloBank Sp��ka Akcyjna
 293 VeloBank Sp��ka Akcyjna
-294 Morgan Stanley Europe SE (Sp��ka Europejska) Oddzia� w Polsce
-60400 SkyCash Poland Sp��ka Akcyjna
-61100 VIVA PAYMENT SERVICES SP��KA AKCYJNA ODDZIA� W POLSCE
-62000 Autopay Sp��ka Akcyjna
-70030 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa ENERGIA
-70370 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa Ziemi Rybnickiej
-70420 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. Unii Lubelskiej w Lublinie
+60000 Zak�ad Ubezpiecze� Spo�ecznych
+60700 Currency One Sp��ka Akcyjna
+61600 UNIFIEDPOST PAYMENTS SP��KA AKCYJNA ODDZIA� W POLSCE
+63000 Igoria Trade Sp��ka Akcyjna
+70140 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa w Kostrzynie nad Odr�
+70390 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa "Bo�e Dary"
 70460 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa PROGRES
-70520 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa "Wis�a"
+70480 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa "�l�sk" z siedzib� w Rudzie �l�skiej
 70610 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. Zygmunta Chmielewskiego
-70650 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. Franciszka Stefczyka
+70610 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. Zygmunta Chmielewskiego
+70790 Krakowska Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa w Krakowie
 70890 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa ?Szopienice? w Katowicach
 70990 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa "�widnik"
-71050 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa przy Dezamet S.A. w Nowej D�bie
+71150 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa ?Centrum?
 71180 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. Eugeniusza Kwiatkowskiego
-71180 Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. Eugeniusza Kwiatkowskiego
-71900 Regionalna Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa im. �w. Brata Alberta
+71440 Zachodniopomorska Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa
+79999 Krajowa Sp��dzielcza Kasa Oszcz�dno�ciowo-Kredytowa
 8001 Bank Sp��dzielczy w Otwocku
-8001 Bank Sp��dzielczy w Otwocku
+8002 Bank Sp��dzielczy w Piasecznie
 8002 Bank Sp��dzielczy w Piasecznie
 8002 Bank Sp��dzielczy w Piasecznie
 8003 Mazovia Bank Sp��dzielczy
-8004 Bank Sp��dzielczy w Raszynie
+8006 Sp��dzielczy Bank Rzemios�a i Rolnictwa w Wo�ominie w upad�o�ci likwidacyjnej
 8008 Bank Sp��dzielczy w Tarczynie
 8009 Mazowiecki Bank Sp��dzielczy w �omiankach
 8009 Mazowiecki Bank Sp��dzielczy w �omiankach
 8009 Mazowiecki Bank Sp��dzielczy w �omiankach
-8011 Bank Sp��dzielczy w Nowym Dworze Mazowieckim
 8013 Bank Sp��dzielczy w Legionowie
-8015 Warszawski Bank Sp��dzielczy
+8013 Bank Sp��dzielczy w Legionowie
 8017 Bank Sp��dzielczy w Nadarzynie w upad�o�ci
 8019 Bank Sp��dzielczy w Halinowie
-8023 Bank Sp��dzielczy w Karczewie
+8019 Bank Sp��dzielczy w Halinowie
+8025 Bank Sp��dzielczy w Bia�ej Podlaskiej
 8025 Bank Sp��dzielczy w Bia�ej Podlaskiej
 8025 Bank Sp��dzielczy w Bia�ej Podlaskiej
 8025 Bank Sp��dzielczy w Bia�ej Podlaskiej
@@ -1023,100 +1023,100 @@
 8037 Bank Sp��dzielczy w �omazach
 8038 Bank Sp��dzielczy w �osicach
 8039 Bank Sp��dzielczy w Mi�dzyrzecu Podlaskim
-8042 Bank Sp��dzielczy w Parczewie
 8046 Bank Sp��dzielczy w Radzyniu Podlaskim
 8046 Bank Sp��dzielczy w Radzyniu Podlaskim
 8046 Bank Sp��dzielczy w Radzyniu Podlaskim
 8046 Bank Sp��dzielczy w Radzyniu Podlaskim
-8061 Bank Sp��dzielczy w Bielsku Podlaskim
-8071 Bank Sp��dzielczy w Hajn�wce
+8060 Bank Sp��dzielczy w Bia�ymstoku
+8063 Bank Sp��dzielczy w Bra�sku
 8074 Bank Sp��dzielczy w Juchnowcu G�rnym
-8077 Bank Sp��dzielczy w Korycinie
-8085 Bank Sp��dzielczy w Mo�kach
-8092 Bank Sp��dzielczy w Siemiatyczach
-8094 Bank Sp��dzielczy w Suchowoli
+8076 Podlaski Bank Sp��dzielczy w Knyszynie
+8081 Bank Sp��dzielczy w �apach
+8086 Bank Sp��dzielczy w Narwi
+8093 Bank Sp��dzielczy w Sok��ce
+8099 Podlasko-Mazurski Bank Sp��dzielczy  w Zab�udowie
 8110 ABS Bank Sp��dzielczy
 8110 ABS Bank Sp��dzielczy
 8110 ABS Bank Sp��dzielczy
 8111 Beskidzki Bank Sp��dzielczy
 8112 Bank Sp��dzielczy w Brze�nicy
 8113 Bank Sp��dzielczy w Cieszynie
-8113 Bank Sp��dzielczy w Cieszynie
-8118 Bank Sp��dzielczy w Jele�ni
-8124 Bank Sp��dzielczy w Por�bce
+8117 Bank Sp��dzielczy w Jasienicy
+8119 Bank Sp��dzielczy w Kalwarii Zebrzydowskiej
 8125 Bank Sp��dzielczy w Rajczy
 8126 Bank Sp��dzielczy w Skoczowie
 8126 Bank Sp��dzielczy w Skoczowie
+8128 Bank Sp��dzielczy w Suchej Beskidzkiej
 8129 Bank Sp��dzielczy w Ustroniu
-8131 Bank Sp��dzielczy w W�gierskiej G�rce
-8136 Bank Sp��dzielczy w Zatorze
-8141 Bank Sp��dzielczy w Gilowicach
+8133 Bank Sp��dzielczy w Bystrej
+8137 Bank Sp��dzielczy w �ywcu
 8142 Bank Sp��dzielczy w Bydgoszczy
 8142 Bank Sp��dzielczy w Bydgoszczy
 8142 Bank Sp��dzielczy w Bydgoszczy
-8144 Bank Sp��dzielczy w Koronowie
-8147 Bank Sp��dzielczy w Czersku
-8151 Bank Sp��dzielczy w Kruszwicy
-8162 Bank Sp��dzielczy w Wi�cborku
-8166 Bank Sp��dzielczy w Kcyni
-8168 Bank Sp��dzielczy w �wieciu
+8142 Bank Sp��dzielczy w Bydgoszczy
+8146 Bank Sp��dzielczy w Chojnicach
+8149 InoBank Bank Sp��dzielczy w Inowroc�awiu
+8159 Bank Sp��dzielczy w Strzelnie
+8164 Bank Sp��dzielczy w Szubinie
+8167 Bank Sp��dzielczy w Barcinie
+8169 Bank Sp��dzielczy w Osiu
 8169 Bank Sp��dzielczy w Osiu
 8170 Bank Sp��dzielczy w Pruszczu Pomorskim
 8170 Bank Sp��dzielczy w Pruszczu Pomorskim
-8170 Bank Sp��dzielczy w Pruszczu Pomorskim
-8174 Bank Sp��dzielczy w Tucholi
-8181 Bank Sp��dzielczy "Pa�uki" w �ninie
+8173 Bank Sp��dzielczy w Nowem n/Wis��
+8179 Bank Sp��dzielczy w Nakle n/Noteci�
+8185 Piastowski Bank Sp��dzielczy w Janikowie
 8187 Wschodni Bank Sp��dzielczy w Che�mie
-8188 Bank Sp��dzielczy w Wojs�awicach
 8191 Bank Sp��dzielczy w Cycowie
 8191 Bank Sp��dzielczy w Cycowie
 8191 Bank Sp��dzielczy w Cycowie
-8195 Bank Sp��dzielczy w Le�niowicach
+8191 Bank Sp��dzielczy w Cycowie
+8200 Bank Sp��dzielczy w Krasnymstawie
 8200 Bank Sp��dzielczy w Krasnymstawie
 8200 Bank Sp��dzielczy w Krasnymstawie
 8200 Bank Sp��dzielczy w Krasnymstawie
 8202 Bank Sp��dzielczy w Bia�opolu
 8213 Polski Bank Sp��dzielczy w Poznaniu
-8213 Polski Bank Sp��dzielczy w Poznaniu
 8215 Bank Sp��dzielczy w Dzia�dowie z siedzib� w Lidzbarku
 8215 Bank Sp��dzielczy w Dzia�dowie z siedzib� w Lidzbarku
+8220 Bank Sp��dzielczy w Grudusku
 8225 Bank Sp��dzielczy w M�awie
-8225 Bank Sp��dzielczy w M�awie
+8226 Bank Sp��dzielczy w Nasielsku
 8226 Bank Sp��dzielczy w Nasielsku
 8229 Bank Sp��dzielczy w Glinojecku
 8230 Bank Sp��dzielczy w P�o�sku
-8230 Bank Sp��dzielczy w P�o�sku
+8232 Bank Sp��dzielczy w Pu�tusku
 8233 Bank Sp��dzielczy w Raci��u
 8233 Bank Sp��dzielczy w Raci��u
-8238 Bank Sp��dzielczy w Strzegowie
+8242 Bank Sp��dzielczy w �urominie
 8242 Bank Sp��dzielczy w �urominie
 8248 Bank Sp��dzielczy w K�obucku
 8248 Bank Sp��dzielczy w K�obucku
-8248 Bank Sp��dzielczy w K�obucku
 8250 Bank Sp��dzielczy w Krzepicach
 8250 Bank Sp��dzielczy w Krzepicach
+8258 Bank Sp��dzielczy w Mykanowie
 8260 Cz�stochowski Bank Sp��dzielczy JURA BANK
 8260 Cz�stochowski Bank Sp��dzielczy JURA BANK
 8260 Cz�stochowski Bank Sp��dzielczy JURA BANK
 8265 Bank Sp��dzielczy w Paj�cznie
-8265 Bank Sp��dzielczy w Paj�cznie
-8277 Bank Sp��dzielczy w Szczekocinach
+8273 Bank Sp��dzielczy w Konopiskach
 8279 Mi�dzypowiatowy Bank Sp��dzielczy w  Myszkowie
 8279 Mi�dzypowiatowy Bank Sp��dzielczy w  Myszkowie
 8279 Mi�dzypowiatowy Bank Sp��dzielczy w  Myszkowie
+8300 Powi�la�ski Bank Sp��dzielczy w Kwidzynie
 8303 Bank Sp��dzielczy w Malborku
 8306 �u�awski Bank Sp��dzielczy
-8308 Bank Sp��dzielczy w Stegnie
-8310 Bank Sp��dzielczy w Dzierzgoniu
+8309 Bank Sp��dzielczy w Sztumie
 8313 Braniewsko - Pas��cki Bank Sp��dzielczy z siedzib� w Pas��ku
-8320 Bank Sp��dzielczy w Suszu
-8328 Bank Sp��dzielczy w Ko�cierzynie
-8337 Bank Sp��dzielczy w Pszcz��kach
+8319 Bank Sp��dzielczy w Prabutach
+8324 Bank Sp��dzielczy w Sierakowicach
+8335 Bank Sp��dzielczy w Pruszczu Gda�skim
 8340 Bank Sp��dzielczy w Starogardzie Gda�skim
 8342 Bank Sp��dzielczy w Sk�rczu
 8345 Bank Sp��dzielczy w Tczewie
-8348 Bank Sp��dzielczy w Pucku
-8350 Kaszubski Bank Sp��dzielczy
+8346 Bank Sp��dzielczy w Gniewie
+8349 Bank Sp��dzielczy w Krokowej
+8351 Zjednoczony Bank Sp��dzielczy
 8351 Zjednoczony Bank Sp��dzielczy
 8355 Gospodarczy Bank Sp��dzielczy w Barlinku
 8355 Gospodarczy Bank Sp��dzielczy w Barlinku
@@ -1125,15 +1125,14 @@
 8355 Gospodarczy Bank Sp��dzielczy w Barlinku
 8359 Zachodniopomorski Bank Sp��dzielczy
 8362 Lubusko-Wielkopolski Bank Sp��dzielczy
-8363 Gospodarczy Bank Sp��dzielczy w Gorzowie Wielkopolskim
 8367 Lubuski Bank Sp��dzielczy
+8369 Bank Sp��dzielczy w O�nie Lubuskim
 8371 Bank Sp��dzielczy w Rzepinie
-8371 Bank Sp��dzielczy w Rzepinie
+8382 Bank Sp��dzielczy w Pie�sku
 8384 Bank Sp��dzielczy Lw�wek �l�ski w Lw�wku �l�skim
-8384 Bank Sp��dzielczy Lw�wek �l�ski w Lw�wku �l�skim
-8395 Bank Sp��dzielczy w Kamiennej G�rze
+8392 �u�ycki Bank Sp��dzielczy w Lubaniu
 8404 Bank Sp��dzielczy Ziemi Kaliskiej
-8409 Bank Sp��dzielczy w Dobrzycy
+8407 Bank Sp��dzielczy w Pleszewie
 8410 Bank Sp��dzielczy w Krotoszynie
 8410 Bank Sp��dzielczy w Krotoszynie
 8413 Sp��dzielczy Bank Ludowy w K�pnie
@@ -1142,53 +1141,53 @@
 8413 Sp��dzielczy Bank Ludowy w K�pnie
 8413 Sp��dzielczy Bank Ludowy w K�pnie
 8413 Sp��dzielczy Bank Ludowy w K�pnie
-8430 Bank Sp��dzielczy w Raszkowie
-8435 Bank Sp��dzielczy w Tychach
+8427 Bank Sp��dzielczy w Jarocinie
+8431 Sp��dzielczy Bank Ludowy w Skalmierzycach
 8436 Miko�owski Bank Sp��dzielczy w Miko�owie
 8436 Miko�owski Bank Sp��dzielczy w Miko�owie
 8437 �l�ski Bank Sp��dzielczy "Silesia" w Katowicach
 8437 �l�ski Bank Sp��dzielczy "Silesia" w Katowicach
-8438 Bank Sp��dzielczy w B�dzinie
-8445 Bank Sp��dzielczy w Jaworznie
+8437 �l�ski Bank Sp��dzielczy "Silesia" w Katowicach
+8444 Bank Sp��dzielczy w Chrzanowie
 8446 Bank Sp��dzielczy w Mied�nej
-8448 Bank Sp��dzielczy w Pszczynie
-8450 Bank Sp��dzielczy w Wolbromiu
-8454 Orzesko-Knurowski Bank Sp��dzielczy  z siedzib� w Knurowie
+8447 Bank Sp��dzielczy w Paw�owicach
+8449 Bank Sp��dzielczy w Olkuszu w likwidacji
+8453 Bank Sp��dzielczy Czechowice-Dziedzice-Bestwina
 8454 Orzesko-Knurowski Bank Sp��dzielczy  z siedzib� w Knurowie
 8454 Orzesko-Knurowski Bank Sp��dzielczy  z siedzib� w Knurowie
 8454 Orzesko-Knurowski Bank Sp��dzielczy  z siedzib� w Knurowie
 8454 Orzesko-Knurowski Bank Sp��dzielczy  z siedzib� w Knurowie
 8456 Bank Sp��dzielczy w �orach
-8463 Bank Sp��dzielczy w Tarnowskich G�rach
-8467 Bank Sp��dzielczy w �wierkla�cu
-8470 Bank Sp��dzielczy w Jastrz�biu-Zdroju
+8457 Bank Sp��dzielczy w Gliwicach
+8466 Bank Sp��dzielczy w Tworogu
+8469 Bank Sp��dzielczy w Gorzycach
+8474 Meander Bank Sp��dzielczy w Krzy�anowicach
 8475 Bank Sp��dzielczy w Raciborzu
 8475 Bank Sp��dzielczy w Raciborzu
 8475 Bank Sp��dzielczy w Raciborzu
-8480 Bank Sp��dzielczy w Busku-Zdroju
-8485 Bank Sp��dzielczy Daleszyce-G�rno
+8483 Bank Sp��dzielczy w Chmielniku
 8485 Bank Sp��dzielczy Daleszyce-G�rno
 8490 �wi�tokrzyski Bank Sp��dzielczy w J�drzejowie
-8493 Bank Sp��dzielczy w Kielcach
+8490 �wi�tokrzyski Bank Sp��dzielczy w J�drzejowie
 8494 Bank Sp��dzielczy w Ko�skich
-8507 Bank Sp��dzielczy w Ostrowcu �wi�tokrzyskim
+8499 Bank Sp��dzielczy w �opusznie
 8507 Bank Sp��dzielczy w Ostrowcu �wi�tokrzyskim
 8507 Bank Sp��dzielczy w Ostrowcu �wi�tokrzyskim
 8509 Bank Sp��dzielczy w Pi�czowie
-8517 Nadwi�la�ski Bank Sp��dzielczy w Solcu-Zdroju
+8512 Bank Sp��dzielczy w Samsonowie
+8518 Bank Sp��dzielczy w Starachowicach
 8519 Bank Sp��dzielczy w Stopnicy
-8520 Bank Sp��dzielczy w Suchedniowie
 8521 Bank Sp��dzielczy w Szyd�owie
+8523 Bank Sp��dzielczy w W�chocku
 8525 Bank Sp��dzielczy we W�oszczowie
 8525 Bank Sp��dzielczy we W�oszczowie
-8526 Bank Sp��dzielczy w Wodzis�awiu
-8534 Bank Sp��dzielczy w �lesinie
+8530 Bank Sp��dzielczy w Koninie
 8538 Bank Sp��dzielczy w Witkowie
 8538 Bank Sp��dzielczy w Witkowie
 8542 Bank Sp��dzielczy w S�upcy
-8545 Bank Sp��dzielczy w K�odawie
-8558 Bank Sp��dzielczy w Wierzbinku
-8566 Ba�tycki Bank Sp��dzielczy
+8543 Ludowy Bank Sp��dzielczy w Strza�kowie
+8557 Rejonowy Bank Sp��dzielczy w Malanowie
+8562 Bank Sp��dzielczy w Bia�ogardzie
 8566 Ba�tycki Bank Sp��dzielczy
 8566 Ba�tycki Bank Sp��dzielczy
 8570 Bank Sp��dzielczy w Kaliszu Pomorskim
@@ -1197,42 +1196,43 @@
 8581 Pomorski Bank Sp��dzielczy w �widwinie
 8581 Pomorski Bank Sp��dzielczy w �widwinie
 8589 Bank Sp��dzielczy Rzemios�a w Krakowie
-8591 Krakowski Bank Sp��dzielczy
+8589 Bank Sp��dzielczy Rzemios�a w Krakowie
 8591 Krakowski Bank Sp��dzielczy
 8597 Bank Sp��dzielczy w Proszowicach
 8597 Bank Sp��dzielczy w Proszowicach
-8600 Bank Sp��dzielczy w Skawinie
-8612 Bank Sp��dzielczy w Krzeszowicach
+8597 Bank Sp��dzielczy w Proszowicach
+8602 Bank Sp��dzielczy w Dobczycach
 8614 Bank Sp��dzielczy w S�omnikach
-8619 Ma�opolski Bank Sp��dzielczy
-8626 Bank Sp��dzielczy w Ko�aczycach
+8614 Bank Sp��dzielczy w S�omnikach
+8621 Bieszczadzki Bank Sp��dzielczy w Ustrzykach Dolnych
 8627 Bank Sp��dzielczy w Bieczu
 8627 Bank Sp��dzielczy w Bieczu
 8627 Bank Sp��dzielczy w Bieczu
+8628 Bank Sp��dzielczy w Lipinkach
 8636 Bank Sp��dzielczy w Rymanowie
 8636 Bank Sp��dzielczy w Rymanowie
-8636 Bank Sp��dzielczy w Rymanowie
-8646 Bank Sp��dzielczy w G�ogowie
+8644 Bank Sp��dzielczy w Chojnowie
 8647 Bank Sp��dzielczy w Jaworze
 8647 Bank Sp��dzielczy w Jaworze
 8647 Bank Sp��dzielczy w Jaworze
+8649 Bank Sp��dzielczy w Legnicy
 8649 Bank Sp��dzielczy w Legnicy
 8649 Bank Sp��dzielczy w Legnicy
 8649 Bank Sp��dzielczy w Legnicy
 8658 Powiatowy Bank Sp��dzielczy w Z�otoryi
-8658 Powiatowy Bank Sp��dzielczy w Z�otoryi
-8666 Bank Sp��dzielczy w Ko�cianie
-8669 Bank Sp��dzielczy we Wschowie
+8661 Bank Sp��dzielczy we W�oszakowicach
+8667 Bank Sp��dzielczy w �miglu
 8674 Bank Sp��dzielczy w Jutrosinie
 8678 Powiatowy Bank Sp��dzielczy w Gostyniu
 8682 Bank Sp��dzielczy w Poniecu
-8687 Bank Sp��dzielczy w Niedrzwicy Du�ej
+8685 Rejonowy Bank Sp��dzielczy w Bychawie
 8689 Sp��dzielczy Bank Powiatowy w Piaskach
+8693 Bank Sp��dzielczy w ��cznej
 8702 Bank Sp��dzielczy w Niemcach
 8702 Bank Sp��dzielczy w Niemcach
 8707 Bank Sp��dzielczy w Lubartowie
 8707 Bank Sp��dzielczy w Lubartowie
-8707 Bank Sp��dzielczy w Lubartowie
+8717 Bank Sp��dzielczy Ziemi Kra�nickiej  w Kra�niku
 8717 Bank Sp��dzielczy Ziemi Kra�nickiej  w Kra�niku
 8717 Bank Sp��dzielczy Ziemi Kra�nickiej  w Kra�niku
 8717 Bank Sp��dzielczy Ziemi Kra�nickiej  w Kra�niku
@@ -1240,69 +1240,68 @@
 8717 Bank Sp��dzielczy Ziemi Kra�nickiej  w Kra�niku
 8717 Bank Sp��dzielczy Ziemi Kra�nickiej  w Kra�niku
 8724 Bank Sp��dzielczy w Rykach
-8724 Bank Sp��dzielczy w Rykach
-8731 Bank Sp��dzielczy w Kazimierzu Dolnym
-8734 Powiatowy Bank Sp��dzielczy w Opolu  Lubelskim
+8729 Bank Sp��dzielczy w J�zefowie nad Wis��
+8733 Bank Sp��dzielczy w Na��czowie
 8735 Bank Sp��dzielczy w Poniatowej
 8741 Lubelski Bank Sp��dzielczy
 8741 Lubelski Bank Sp��dzielczy
 8741 Lubelski Bank Sp��dzielczy
 8747 Bank Sp��dzielczy w Czy�ewie
+8749 Bank Sp��dzielczy w Ciechanowcu
 8752 Bank Sp��dzielczy w Jedwabnem
-8752 Bank Sp��dzielczy w Jedwabnem
+8754 Bank Sp��dzielczy w Kolnie
 8757 Bank Sp��dzielczy w �om�y
 8757 Bank Sp��dzielczy w �om�y
 8762 Hexa Bank Sp��dzielczy
-8762 Hexa Bank Sp��dzielczy
+8766 Bank Sp��dzielczy w Soko�ach
 8768 Bank Sp��dzielczy w Szczuczynie
 8768 Bank Sp��dzielczy w Szczuczynie
-8769 Sp��dzielczy Bank Rozwoju
-8774 Bank Sp��dzielczy w Wysokiem Mazowieckiem
-8780 AURET BANK Sp��dzielczy
-8783 Bank Sp��dzielczy w Zgierzu
+8770 Bank Sp��dzielczy w Szumowie
+8775 Bank Sp��dzielczy w Zambrowie
+8781 Bank Sp��dzielczy w Andrespolu
 8784 ��dzki Bank Sp��dzielczy
 8784 ��dzki Bank Sp��dzielczy
-8786 Bank Sp��dzielczy w Ozorkowie
+8784 ��dzki Bank Sp��dzielczy
+8787 Bank Sp��dzielczy w G�ownie
 8791 Bank Sp��dzielczy Ziem G�rskich KARPATIA
 8791 Bank Sp��dzielczy Ziem G�rskich KARPATIA
-8791 Bank Sp��dzielczy Ziem G�rskich KARPATIA
-8795 Bank Sp��dzielczy w Gorlicach
+8792 Bank Sp��dzielczy w Czarnym Dunajcu
 8795 Bank Sp��dzielczy w Gorlicach
 8797 Bank Sp��dzielczy w Grybowie
 8797 Bank Sp��dzielczy w Grybowie
-8799 Bank Sp��dzielczy w Jordanowie
-8805 ��cki Bank Sp��dzielczy
+8798 Bank Sp��dzielczy w Jab�once
+8804 Bank Sp��dzielczy w Limanowej
+8808 Bank Sp��dzielczy w Mszanie Dolnej
 8808 Bank Sp��dzielczy w Mszanie Dolnej
 8811 Bank Sp��dzielczy w Nowym S�czu
-8811 Bank Sp��dzielczy w Nowym S�czu
 8812 Bank Sp��dzielczy w Nowym Targu
-8814 Bank Sp��dzielczy w Podegrodziu
-8816 Bank Sp��dzielczy w Starym S�czu
+8813 Bank Sp��dzielczy w Piwnicznej - Zdroju
+8815 Bank Sp��dzielczy w Rabie Wy�nej
 8817 Pieni�ski Bank Sp��dzielczy
-8821 Podhala�ski Bank Sp��dzielczy w Zakopanem
+8818 Bank Sp��dzielczy w �ososinie Dolnej
 8823 Bank Sp��dzielczy w Olsztynku
 8831 Bank Sp��dzielczy w I�awie
 8831 Bank Sp��dzielczy w I�awie
+8832 Bank Sp��dzielczy w Lubawie
 8834 Bank Sp��dzielczy w Nidzicy
 8834 Bank Sp��dzielczy w Nidzicy
-8838 Bank Sp��dzielczy w Szczytnie
 8838 Bank Sp��dzielczy w Szczytnie
 8838 Bank Sp��dzielczy w Szczytnie
 8838 Bank Sp��dzielczy w Szczytnie
 8843 Mor�sko-Zalewski Bank Sp��dzielczy
-8848 Bank Sp��dzielczy w Mr�gowie
+8843 Mor�sko-Zalewski Bank Sp��dzielczy
 8851 Bank Sp��dzielczy w Reszlu
 8851 Bank Sp��dzielczy w Reszlu
-8855 Bank Sp��dzielczy w Bartoszycach
+8851 Bank Sp��dzielczy w Reszlu
+8857 Warmi�ski Bank Sp��dzielczy
 8857 Warmi�ski Bank Sp��dzielczy
 8857 Warmi�ski Bank Sp��dzielczy
 8857 Warmi�ski Bank Sp��dzielczy
 8863 Bank Sp��dzielczy w Brzegu
-8863 Bank Sp��dzielczy w Brzegu
-8868 Bank Sp��dzielczy w G�ubczycach
+8866 Bank Sp��dzielczy w Baborowie
+8870 Bank Sp��dzielczy Grodk�w-�osi�w z siedzib� w Grodkowie
 8872 Bank Sp��dzielczy w Otmuchowie
-8872 Bank Sp��dzielczy w Otmuchowie
-8882 Powiatowy Bank Sp��dzielczy w K�dzierzynie-Ko�lu
+8876 Bank Sp��dzielczy w Wo�czynie
 8882 Powiatowy Bank Sp��dzielczy w K�dzierzynie-Ko�lu
 8883 Bank Sp��dzielczy w Gogolinie
 8883 Bank Sp��dzielczy w Gogolinie
@@ -1312,140 +1311,141 @@
 8890 Bank Sp��dzielczy w Namys�owie
 8890 Bank Sp��dzielczy w Namys�owie
 8890 Bank Sp��dzielczy w Namys�owie
-8895 Bank Sp��dzielczy w Dobrzeniu Wielkim
-8898 Bank Sp��dzielczy "Bank Rolnik�w" w Opolu
-8904 Bank Sp��dzielczy w G�og�wku
+8890 Bank Sp��dzielczy w Namys�owie
+8897 Bank Sp��dzielczy w �ubnianach
+8903 Bank Sp��dzielczy w Bia�ej
 8905 Bank Sp��dzielczy w Prudniku
 8907 Bank Sp��dzielczy w Le�nicy
 8907 Bank Sp��dzielczy w Le�nicy
 8907 Bank Sp��dzielczy w Le�nicy
 8907 Bank Sp��dzielczy w Le�nicy
 8907 Bank Sp��dzielczy w Le�nicy
+8907 Bank Sp��dzielczy w Le�nicy
 8909 Bank Sp��dzielczy w Zawadzkiem
 8909 Bank Sp��dzielczy w Zawadzkiem
 8909 Bank Sp��dzielczy w Zawadzkiem
-8913 Limes Bank Sp��dzielczy
 8915 Bank Sp��dzielczy w Goworowie
-8917 Bank Sp��dzielczy w Krasnosielcu z siedzib� w Makowie Mazowieckim
+8916 Bank Sp��dzielczy w Kadzidle
 8920 Kurpiowski Bank Sp��dzielczy w Myszy�cu
 8923 Bank Sp��dzielczy w Ostrowi Mazowieckiej
 8923 Bank Sp��dzielczy w Ostrowi Mazowieckiej
 8923 Bank Sp��dzielczy w Ostrowi Mazowieckiej
 8923 Bank Sp��dzielczy w Ostrowi Mazowieckiej
-8925 Bank Sp��dzielczy w R��anie
-8931 Polski Bank Sp��dzielczy w Wyszkowie
-8937 Nadnotecki Bank Sp��dzielczy
-8940 Bank Sp��dzielczy w Wysokiej
+8924 Bank Sp��dzielczy w Przasnyszu
+8930 Bank Sp��dzielczy w W�sewie
+8935 Bank Sp��dzielczy w Jastrowiu
+8938 Bank Sp��dzielczy w �ob�enicy
 8941 Sp��dzielczy Bank Ludowy w Z�otowie
 8941 Sp��dzielczy Bank Ludowy w Z�otowie
-8944 Sp��dzielczy Bank Ludowy w Zakrzewie
-8951 Bank Sp��dzielczy w Czarnkowie
-8960 Bank Sp��dzielczy w Wieleniu
+8943 Bank Sp��dzielczy w Lipce
+8945 Bank Sp��dzielczy w Chodzie�y
+8959 Pa�ucki Bank Sp��dzielczy w W�growcu
 8961 Bank Sp��dzielczy we Wronkach
-8973 naturoBank Bank Sp��dzielczy
+8961 Bank Sp��dzielczy we Wronkach
 8980 ESBANK Bank Sp��dzielczy
 8980 ESBANK Bank Sp��dzielczy
 8985 Powiatowy Bank Sp��dzielczy w Tomaszowie Mazowieckim
 8985 Powiatowy Bank Sp��dzielczy w Tomaszowie Mazowieckim
-8988 Bank Sp��dzielczy w Przedborzu
-9006 Bank Sp��dzielczy w Ma�ej Wsi
-9010 Bank Sp��dzielczy w I�owie
-9012 Bank Sp��dzielczy w Gostyninie
+8985 Powiatowy Bank Sp��dzielczy w Tomaszowie Mazowieckim
+8992 Bank Sp��dzielczy w Opocznie
+9008 Bank Sp��dzielczy w Staro�rebach
+9011 Vistula Bank Sp��dzielczy
 9013 Bank Sp��dzielczy w G�binie
+9021 Bank Sp��dzielczy "Wsp�lna Praca" w Kutnie
 9021 Bank Sp��dzielczy "Wsp�lna Praca" w Kutnie
 9038 Bank Sp��dzielczy w Starej Bia�ej
 9038 Bank Sp��dzielczy w Starej Bia�ej
-9038 Bank Sp��dzielczy w Starej Bia�ej
 9042 Bank Sp��dzielczy "MAZOWSZE" w P�ocku
 9042 Bank Sp��dzielczy "MAZOWSZE" w P�ocku
 9042 Bank Sp��dzielczy "MAZOWSZE" w P�ocku
 9042 Bank Sp��dzielczy "MAZOWSZE" w P�ocku
+9042 Bank Sp��dzielczy "MAZOWSZE" w P�ocku
 9043 POZNA�SKI BANK SP��DZIELCZY
 9043 POZNA�SKI BANK SP��DZIELCZY
 9043 POZNA�SKI BANK SP��DZIELCZY
 9043 POZNA�SKI BANK SP��DZIELCZY
-9043 POZNA�SKI BANK SP��DZIELCZY
-9048 Gospodarczy Bank Sp��dzielczy w Mosinie
-9058 Bank Sp��dzielczy w Nowym Tomy�lu
-9065 Bank Sp��dzielczy w Gnie�nie
+9044 Pobiedzisko - Go�li�ski Bank Sp��dzielczy w Pobiedziskach
+9055 Ludowy Bank Sp��dzielczy w Obornikach
+9063 Bank Sp��dzielczy w Grodzisku Wielkopolskim
 9068 Wielkopolski Bank Sp��dzielczy
+9072 Bank Sp��dzielczy Duszniki
 9075 Bank Sp��dzielczy w Kostrzynie
-9076 Bank Sp��dzielczy w K�rniku
 9081 Nadobrza�ski Bank Sp��dzielczy w Rakoniewicach
-9082 Bank Sp��dzielczy Pojezierza Mi�dzychodzko - Sierakowskiego w Sierakowie
+9081 Nadobrza�ski Bank Sp��dzielczy w Rakoniewicach
 9084 Sp��dzielczy Bank Ludowy im.Ks.P.Wawrzyniaka
-9085 BANK SP��DZIELCZY w �rodzie Wielkopolskiej
+9084 Sp��dzielczy Bank Ludowy im.Ks.P.Wawrzyniaka
+9091 Bank Sp��dzielczy w Ch�opicach
 9093 Bank Sp��dzielczy w Dynowie
 9093 Bank Sp��dzielczy w Dynowie
-9093 Bank Sp��dzielczy w Dynowie
+9096 Bank Sp��dzielczy w Jaros�awiu
 9096 Bank Sp��dzielczy w Jaros�awiu
 9101 Bank Sp��dzielczy w Lubaczowie
 9101 Bank Sp��dzielczy w Lubaczowie
 9101 Bank Sp��dzielczy w Lubaczowie
-9103 Bank Sp��dzielczy w Narolu
 9106 Bank Sp��dzielczy w Przeworsku
+9107 Bank Sp��dzielczy w Radymnie
 9113 Bank Sp��dzielczy w �urawicy
 9113 Bank Sp��dzielczy w �urawicy
-9113 Bank Sp��dzielczy w �urawicy
-9116 Bank Sp��dzielczy im.Stefczyka w Belsku Du�ym
+9115 Bank Sp��dzielczy Rzemios�a w Radomiu
 9117 Bank Sp��dzielczy w Bia�obrzegach
 9117 Bank Sp��dzielczy w Bia�obrzegach
-9128 Bank Sp��dzielczy w Gr�jcu
-9130 Bank Sp��dzielczy w Jasie�cu
-9135 Bank Sp��dzielczy w Lipsku
+9121 Bank Sp��dzielczy w Chynowie
+9129 Bank Sp��dzielczy w I��y
+9132 Po�udniowo-Mazowiecki Bank Sp��dzielczy w Jedli�sku
+9141 Bank Sp��dzielczy w Pionkach
 9141 Bank Sp��dzielczy w Pionkach
 9145 Bank Sp��dzielczy w Przysusze
 9145 Bank Sp��dzielczy w Przysusze
 9145 Bank Sp��dzielczy w Przysusze
 9145 Bank Sp��dzielczy w Przysusze
 9145 Bank Sp��dzielczy w Przysusze
-9145 Bank Sp��dzielczy w Przysusze
-9150 Bank Sp��dzielczy w Skaryszewie
-9157 Bank Sp��dzielczy w Zwoleniu
+9147 Bank Sp��dzielczy w Radomiu
+9154 Bank Sp��dzielczy w Warce
 9158 Bank Sp��dzielczy w B�a�owej
 9159 Bank Sp��dzielczy w G�ogowie Ma�opolskim
 9159 Bank Sp��dzielczy w G�ogowie Ma�opolskim
-9161 Bank Sp��dzielczy w Lubeni
+9159 Bank Sp��dzielczy w G�ogowie Ma�opolskim
 9162 Bank Sp��dzielczy w Rzeszowie
+9163 Bank Sp��dzielczy w Niechobrzu
 9164 Bank Sp��dzielczy w Tyczynie
 9168 Bank Sp��dzielczy w Strzy�owie
 9168 Bank Sp��dzielczy w Strzy�owie
-9168 Bank Sp��dzielczy w Strzy�owie
+9171 Bank Sp��dzielczy w Ropczycach
 9172 Bank Sp��dzielczy w S�dziszowie M�p.
-9173 Bank Sp��dzielczy w Wielopolu Skrzy�skim
-9176 EXPRESS BANK SP��DZIELCZY
+9175 Bank Sp��dzielczy w �o�yni
 9176 EXPRESS BANK SP��DZIELCZY
 9176 EXPRESS BANK SP��DZIELCZY
 9177 Bank Sp��dzielczy w �a�cucie
+9177 Bank Sp��dzielczy w �a�cucie
 9180 Bank Sp��dzielczy w Kolbuszowej
 9180 Bank Sp��dzielczy w Kolbuszowej
-9182 Bank Sp��dzielczy w Soko�owie Ma�opolskim
 9183 Bank Sp��dzielczy w Mielcu
 9183 Bank Sp��dzielczy w Mielcu
-9184 Bank Sp��dzielczy w Przec�awiu
+9183 Bank Sp��dzielczy w Mielcu
+9187 Bank Sp��dzielczy w Le�ajsku
 9187 Bank Sp��dzielczy w Le�ajsku
 9191 Bank Sp��dzielczy w Jasionce
-9193 Bank Sp��dzielczy w Mokobodach
 9194 Bank Sp��dzielczy w Siedlcach
-9202 Bank Sp��dzielczy w Adamowie
+9198 Mi�dzygminny Bank Sp��dzielczy w Zbuczynie
 9203 Bank Sp��dzielczy w Krzywdzie
+9204 Bank Sp��dzielczy w �ukowie
 9204 Bank Sp��dzielczy w �ukowie
 9206 Bank Sp��dzielczy w Trzebieszowie
 9206 Bank Sp��dzielczy w Trzebieszowie
-9206 Bank Sp��dzielczy w Trzebieszowie
-9217 Bank Sp��dzielczy w �askarzewie
-9224 Bank Sp��dzielczy w Ka�uszynie
+9210 Bank Sp��dzielczy w Garwolinie
+9221 Powiatowy Bank Sp��dzielczy w Soko�owie Podlaskim
 9226 Bank Sp��dzielczy w Mi�sku Mazowieckim
-9236 Powiatowy Bank Sp��dzielczy w W�growie
-9245 Bank Sp��dzielczy w B�aszkach
+9233 Bank Sp��dzielczy w �ochowie
+9244 Bank Sp��dzielczy Ziemi Wielu�skiej
 9251 Nadwarcia�ski Bank Sp��dzielczy w Dzia�oszynie
 9256 Rejonowy Bank Sp��dzielczy w Lututowie
 9256 Rejonowy Bank Sp��dzielczy w Lututowie
-9263 Bank Sp��dzielczy w Podd�bicach
-9267 Bank Sp��dzielczy w Sieradzu
+9256 Rejonowy Bank Sp��dzielczy w Lututowie
+9264 Bank Sp��dzielczy w Ru�cu
+9269 Bank Sp��dzielczy w Szadku
 9270 Bank Sp��dzielczy w Warcie
-9270 Bank Sp��dzielczy w Warcie
-9279 Ludowy Bank Sp��dzielczy w Zdu�skiej Woli
+9271 Bank Sp��dzielczy w Wartkowicach
+9283 Bank Sp��dzielczy w Sochaczewie
 9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
 9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
 9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
@@ -1454,25 +1454,25 @@
 9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
 9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
 9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
-9288 Bank Sp��dzielczy Ziemi �owickiej w �owiczu
-9297 Bank Sp��dzielczy w Skierniewicach
+9291 Bank Sp��dzielczy w Bia�ej Rawskiej
 9302 Bank Sp��dzielczy w Mszczonowie
-9315 Bank Sp��dzielczy w Ustce
+9302 Bank Sp��dzielczy w Mszczonowie
 9315 Bank Sp��dzielczy w Ustce
 9317 Bank Sp��dzielczy w S�awnie
 9317 Bank Sp��dzielczy w S�awnie
 9321 Bank Sp��dzielczy w Bytowie
-9331 Bank Sp��dzielczy w E�ku
-9339 Bank Sp��dzielczy w Olecku
+9326 Bank Sp��dzielczy w Cz�uchowie
+9334 Bank Sp��dzielczy w Barg�owie Ko�cielnym
+9343 Mazurski Bank Sp��dzielczy w Gi�ycku
 9343 Mazurski Bank Sp��dzielczy w Gi�ycku
 9348 Bank Sp��dzielczy w W�gorzewie
 9348 Bank Sp��dzielczy w W�gorzewie
 9348 Bank Sp��dzielczy w W�gorzewie
-9351 Bank Sp��dzielczy w Augustowie
 9354 Bank Sp��dzielczy w Sejnach
 9354 Bank Sp��dzielczy w Sejnach
+9359 Bank Sp��dzielczy w Suwa�kach
 9364 Warmi�sko - Mazurski Bank Sp��dzielczy
-9364 Warmi�sko - Mazurski Bank Sp��dzielczy
+9367 Bank Sp��dzielczy w Rutce-Tartak
 9370 Bank Sp��dzielczy w Chojnie
 9370 Bank Sp��dzielczy w Chojnie
 9370 Bank Sp��dzielczy w Chojnie
@@ -1483,15 +1483,14 @@
 9387 Bank Sp��dzielczy Ziemi Szczeci�skiej
 9387 Bank Sp��dzielczy Ziemi Szczeci�skiej
 9387 Bank Sp��dzielczy Ziemi Szczeci�skiej
-9387 Bank Sp��dzielczy Ziemi Szczeci�skiej
 9393 Bank Sp��dzielczy w Wolinie
 9393 Bank Sp��dzielczy w Wolinie
-9410 Bank Sp��dzielczy w Janowie Lubelskim
+9407 Bank Sp��dzielczy w Gr�bowie
 9410 Bank Sp��dzielczy w Janowie Lubelskim
 9410 Bank Sp��dzielczy w Janowie Lubelskim
 9423 Bank Sp��dzielczy w O�arowie
-9425 Bank Sp��dzielczy w Po�a�cu
-9430 Nadsa�ski Bank Sp��dzielczy
+9423 Bank Sp��dzielczy w O�arowie
+9429 Bank Sp��dzielczy w Sandomierzu
 9430 Nadsa�ski Bank Sp��dzielczy
 9430 Nadsa�ski Bank Sp��dzielczy
 9430 Nadsa�ski Bank Sp��dzielczy
@@ -1501,12 +1500,13 @@
 9434 Bank Sp��dzielczy w Tarnobrzegu
 9434 Bank Sp��dzielczy w Tarnobrzegu
 9434 Bank Sp��dzielczy w Tarnobrzegu
+9434 Bank Sp��dzielczy w Tarnobrzegu
 9439 Bank Sp��dzielczy w Zaleszanach
-9453 Bank Sp��dzielczy w Brzesku
+9462 Bank Sp��dzielczy w D�browie Tarnowskiej
 9462 Bank Sp��dzielczy w D�browie Tarnowskiej
 9464 Bank Sp��dzielczy w Szczucinie
 9477 Bank Sp��dzielczy w Pil�nie
-9478 Bank Sp��dzielczy w �yrakowie
+9479 Bank Sp��dzielczy w Radomy�lu Wielkim
 9484 Bank Sp��dzielczy w Brodnicy
 9484 Bank Sp��dzielczy w Brodnicy
 9484 Bank Sp��dzielczy w Brodnicy
@@ -1515,46 +1515,45 @@
 9484 Bank Sp��dzielczy w Brodnicy
 9484 Bank Sp��dzielczy w Brodnicy
 9484 Bank Sp��dzielczy w Brodnicy
-9484 Bank Sp��dzielczy w Brodnicy
-9491 Bank Sp��dzielczy w Gr�bocinie
-9500 Bank Sp��dzielczy w �asinie
+9489 Bank Sp��dzielczy w Golubiu - Dobrzyniu
+9496 Bank Sp��dzielczy w Kowalewie Pomorskim
 9511 Nicolaus Bank Sp��dzielczy w Toruniu
 9523 Bank Sp��dzielczy w K�odzku
 9523 Bank Sp��dzielczy w K�odzku
+9527 Bank Sp��dzielczy w Dzier�oniowie
 9531 Bank Sp��dzielczy w �widnicy
 9531 Bank Sp��dzielczy w �widnicy
 9533 Bank Sp��dzielczy w Z�bkowicach �l�skich
 9533 Bank Sp��dzielczy w Z�bkowicach �l�skich
 9533 Bank Sp��dzielczy w Z�bkowicach �l�skich
 9533 Bank Sp��dzielczy w Z�bkowicach �l�skich
-9536 Gospodarczy Bank Sp��dzielczy Radk�w z/s w Nowej Rudzie
-9542 Bank Sp��dzielczy w Lipnie
+9537 Kujawski Bank Sp��dzielczy w Aleksandrowie Kujawskim
+9546 Bank Sp��dzielczy w Sk�pem
 9549 Bank Sp��dzielczy w Radziejowie
-9550 Kujawsko-Dobrzy�ski Bank Sp��dzielczy
+9551 Bank Sp��dzielczy w Piotrkowie Kujawskim
 9551 Bank Sp��dzielczy w Piotrkowie Kujawskim
 9557 Bank Sp��dzielczy w Kowalu
 9557 Bank Sp��dzielczy w Kowalu
 9559 Bank Sp��dzielczy w Lubra�cu
 9559 Bank Sp��dzielczy w Lubra�cu
 9574 Bank Sp��dzielczy w K�tach Wroc�awskich
-9574 Bank Sp��dzielczy w K�tach Wroc�awskich
+9575 Bank Sp��dzielczy w Kobierzycach
 9575 Bank Sp��dzielczy w Kobierzycach
 9582 Bank Sp��dzielczy w Miliczu
-9582 Bank Sp��dzielczy w Miliczu
+9583 Bank Sp��dzielczy w Obornikach �l�skich
 9583 Bank Sp��dzielczy w Obornikach �l�skich
 9584 Bank Sp��dzielczy w Ole�nicy
 9584 Bank Sp��dzielczy w Ole�nicy
 9584 Bank Sp��dzielczy w Ole�nicy
 9584 Bank Sp��dzielczy w Ole�nicy
 9584 Bank Sp��dzielczy w Ole�nicy
-9584 Bank Sp��dzielczy w Ole�nicy
-9588 Gospodarczy Bank Sp��dzielczy w Strzelinie
+9585 Bank Sp��dzielczy w O�awie
 9589 Bank Sp��dzielczy w �rodzie �l�skiej
-9598 Bank Sp��dzielczy w �migrodzie
-9604 Bank Sp��dzielczy we Frampolu
+9591 Bank Sp��dzielczy w Trzebnicy
+9602 Bank Sp��dzielczy w Bi�goraju
+9610 Bank Sp��dzielczy w Izbicy
 9617 Bank Sp��dzielczy w Lubyczy Kr�lewskiej
-9619 Bank Sp��dzielczy w �ukowej
-9632 Bank Sp��dzielczy w Szczebrzeszynie
+9623 Bank Sp��dzielczy w Obszy
 9637 Bank Sp��dzielczy w Tarnogrodzie
 9639 Bank Sp��dzielczy w Tomaszowie Lubelskim
 9639 Bank Sp��dzielczy w Tomaszowie Lubelskim
@@ -1564,4 +1563,12 @@
 9644 Powiatowy Bank Sp��dzielczy w Zamo�ciu
 9644 Powiatowy Bank Sp��dzielczy w Zamo�ciu
 9644 Powiatowy Bank Sp��dzielczy w Zamo�ciu
-9644 Powiatowy Bank Sp��dzie
+9644 Powiatowy Bank Sp��dzielczy w Zamo�ciu
+9644 Powiatowy Bank Sp��dzielczy w Zamo�ciu
+9649 Bank Sp��dzielczy w Biszczy
+9657 Bank Sp��dzielczy w �aganiu
+9658 Bank Sp��dzielczy w I�owej
+9660 Bank Sp��dzielczy w Siedlcu
+9673 Bank Sp��dzielczy w Ko�uchowie
+9674 Bank Sp��dzielczy w Nowej Soli
+9681 Powiatowy Bank Sp��dzielczy we Wrze�ni
